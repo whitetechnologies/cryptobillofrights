@@ -25,11 +25,11 @@ We understand that with great wealth comes great responsibility and we will stri
   </p>
 <6>Right to Records. 
 <p>
-In the event a crypto currency business is required to disclose information to tax authorities it should properly inform their customers of it. The business should provide clientele with the tools necessary to properly calculate the information require for them to easily comply with tax requirements. 
+In the event a crypto currency business is required to disclose information to tax authorities it should properly inform their customers of the disclosure requirement immediately. The business should provide its customres with the tools necessary to properly compile and calculate the information require for them to easily comply with tax requirements, and not impose unnecessary burdens or charge fees for such information 
   </p>
 <7>Right to Privacy
 <p>
-Information will only be given over to authorities by specific court order and will not give over information in a broad spectrum.
+Businesses engaging in cryptocurrency shall ensure that information about their customres will only be given over to authorities by specific court order and will not give over information in a broad spectrum.
   </p>
 <8>Responsibility of self- governance 
 <p>
