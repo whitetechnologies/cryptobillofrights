@@ -39,7 +39,7 @@ It is our belief that industries with strong self-governance are less likely to 
   
 The enumeration of crypto's proposed bill of rights allows for the expansion, elaboration and adaption necessary to best fit the current needs of the community it aims to serve.
   </p>
-<sign>
+<sign>  Sign </sign>
   <p>  Natalie White</p>
    <p>   Elizabeth White</p>
     <p>  Edgar Radjabli</p>
