@@ -19,7 +19,7 @@ Excessive laws and government overreach shall not be made against crypto currenc
 <p>
 Because crypto currency is the great equalizer, crypto currency businesses should not discriminate in their rules and policies against crypto currency holders based on race, gender, religion, socioeconomic status, sexual orientation, ethnic background, location of residence, or citizenship status.
   </p>
-<5>Duty of Responsability 
+<5>Duty of Responsibility 
 <p>
 We understand that with great wealth comes great responsibility and we will strive to use that wealth for the advancement of human kind, offering equal access to wealth and other resources. We strive to implement both immediate and lasting change for generations to come. 
   </p>
